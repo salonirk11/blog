@@ -1,5 +1,5 @@
-title:            RAVEN
-description:      "Saloni's blog"
+title:            Saloni's blog
+description:      "Notepad"
 logo:             logo.png
 disqus_shortname: raven26
 share:            true
@@ -20,9 +20,8 @@ owner:
   twitter:        saloni_kumar26
   facebook:       saloni.kumar2
   github:         salonirk11
-  instagram:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    +SaloniRajeevKumar
+  instagram:      salonirk26
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
