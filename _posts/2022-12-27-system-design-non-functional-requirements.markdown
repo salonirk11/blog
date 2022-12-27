@@ -33,12 +33,12 @@ to access the system with normal behavior.
 Availability can be visualized as the ratio of the time the system was available to the total time the system was 
 expected to be available.
 
-Availability = \frac{Total Time - Service down time}{Total Time} * 100  
+$$ Availability = \frac{Total Time - Service down time}{Total Time} * 100 $$
 
 Eg. If a system was running for 24 hours and the system was down for 8 minutes the availability of this system would be:
 99.5% availability is also referred to as 2 Nines availability.
 
-Availability = \frac{24 * 60 - 8}{24*60} * 100 ~ 99.5%
+$$ Availability = \frac{24 * 60 - 8}{24*60} * 100 ~ 99.5% $$
 
 Here is a reference table of service downtime allowed for standard availabilities:
 ![table]({{ site.baseurl }}/assets/images/table1.jpg)
