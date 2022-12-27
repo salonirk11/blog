@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "System Design: Non-Functional Requirements"
+author: saloni
 categories: [ System Design ]
 image: assets/images/demo1.jpg
 ---
@@ -40,7 +41,7 @@ Eg. If a system was running for 24 hours and the system was down for 8 minutes t
 Availability = \frac{24 * 60 - 8}{24*60} * 100 ~ 99.5%
 
 Here is a reference table of service downtime allowed for standard availabilities:
-![walking]({{ site.baseurl }}/assets/images/table1.jpg)
+![table]({{ site.baseurl }}/assets/images/table1.jpg)
 
 Higher the availability, the higher the nines, the better.
 
