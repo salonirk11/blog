@@ -7,7 +7,7 @@ image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2
 tags: [travel, gujarat]
 ---
 The first thing that comes to mind on thinking of Gujarat is the "Kuchh din to guzaro Gujarat mein" campaign line. 
-So, wehen we got the opportunitym we planned a week's trip the non-mainstream places of Gujarat
+So, when we got the opportunity we planned a week's trip the non-mainstream places of Gujarat
 
 TLDR of our itinerary: 
 - Day 1: Bhuj-Koteshwar-Dhorodo
@@ -20,7 +20,7 @@ TLDR of our itinerary:
 
 From the looks of it, it looks like I visited a lot of temple cities. Its not wrong, Gujarat has a rich history related 
 to Lord Krishna and Lord Shiva. But not a lot of people know that Gujarat also has an undisclosed connection with 
-the Harappan Civilisation. Apart from this, there is the area of Rann of Katchh that is considered to be among the 
+the Harappan Civilisation. Apart from this, there is the area of Rann of Kutchh that is considered to be among the 
 harshest regions to live in. 
 
 Lets go through the itinerary one by one.
@@ -28,7 +28,7 @@ Lets go through the itinerary one by one.
 ## Day 1: Bhuj - Koteshwar - Dhorodo
 **Places Of Interest: Koteshwar, Narayan Sarovar, Rann Utsav** 
 
-We took a train from Mumbai in evening at reached Bhuj the next day. We freshened up at the [Regenta Resort][regenta-resort]
+We took a train from Mumbai in evening and reached Bhuj the next day. We freshened up at the [Regenta Resort][regenta-resort]
 and left for [Koteshwar][koteshwar]. 
 
 Right before `Koteshwar` is [Narayana Sarovar][narayana-sarovar]. Narayana Sarovar has a temple devoted to Lord Vishnu. This lake has 
@@ -48,7 +48,7 @@ From Koteshwar, we left for the Tent City - [Dhorodo][dhorodo]. This is the plac
 We reached Dhorodo in the evening. There were stalls of Gujarati food and crafts which hosted some local artisans. 
 It was a lively fair. 
 
-After spending some time, we went to our resort - Rann Kandhi resort. They have Gujarati style cottages called Bhungas. 
+After spending some time, we went to our resort - Rann Kandhi resort. They have Gujarati style cottages called [Bhunga][bhunga]. 
 They also had their own cultural program where local musicians played Gujarati music near a bonfire. They also served
 home-cooked Gujarati food which was light and delicious. 
 
@@ -66,7 +66,7 @@ The next morning, we woke up around 6am to go for Paramotoring and hot air ballo
 
 ![paramotoring]({{ site.baseurl }}/assets/images/narayan-sarovar.jpg)
 
-We also walked in the [White Rann Desert][white-rann-desert]. The entire area is wrapped in salt crystals. It was a very unique experience.
+We also walked in the [White Rann Desert][white-rann-desert]. The entire area is covered in salt crystals. It was a very unique experience.
 
 ![rann]({{ site.baseurl }}/assets/images/narayan-sarovar.jpg)
 
@@ -116,9 +116,9 @@ right on the coast and you can see the fast waters of the sea crashing against t
 After this, we headed to our resort in Gir forest. We stayed at the [Amidhara Resort][amidhara-resort]. The resort was 
 close to the Gir national park and was spread across a huge area in Nature's Lap. 
 
-In the evening, there is a local cultural program presented by the descendents of African workers who stayed in Gir as 
-part of their labour contract with the then king. The program looks like a celebration the locals would do around a bonfire
-and is very festive. This cultural program happens in [Saavaj Resort][saavaj-resort] from 8:30 PM onwards. 
+In the evening, there was a local cultural program presented by the descendents of African workers who stayed in Gir as 
+part of their labour contract with the then king. The program looked like a celebration the locals would do around a bonfire
+and is very festive. This cultural program is organised in [Saavaj Resort][saavaj-resort] from 8:30 PM onwards. 
 
 ## Day 5: Gir - Diu
 **Places Of Interest: Gir Lion Safari, War Memorial**
@@ -174,6 +174,7 @@ We wrapped up our long and eventful journey in Veraval, then headed back home to
 [narayana-sarovar]: https://en.wikipedia.org/wiki/Narayan_Sarovar
 [dhorodo]: https://en.wikipedia.org/wiki/Dhordo
 [rann-utsav]: https://www.rannutsav.com/
+[bhunga]: https://www.dsource.in/gallery/habitats-kutch-bhunga
 [white-rann-desert]: https://kachchh.nic.in/tourist-place/white-rann-of-kachchh/
 [dholavira]: https://en.wikipedia.org/wiki/Dholavira
 [road-to-heaven]: https://www.boredpanda.com/i-found-the-road-to-heaven/?utm_source=google&utm_medium=organic&utm_campaign=organic
